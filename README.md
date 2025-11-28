@@ -1,7 +1,6 @@
 # SmartHealthCareSystem ❤️ 
 
-### For more such developments, visit my [https://sam95344.github.io/PortFolio/)
-
+### For more such developments, visit my 
 ##  Features 💬
 
 - It is a **Smart HealthCare System** which can facilitate you to check your hospital status, profile information, doctor information, check slots, book doctor appointments, review the appointments, generate and print your respective prescriptions and manage the entire application.
