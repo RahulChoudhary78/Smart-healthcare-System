@@ -106,10 +106,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 
 
-## Copyright-and-license 📌
 
-**Code and documentation Copyright 2024 : Shamshad Alam**
-
-[Portfolio]: https://sam95344.github.io/Student-Portfolio/#
-[instagram]: https://www.instagram.com/mr.sam_8084/?hl=en
-[linkedin]: https://www.linkedin.com/in/shamshadalam8084/
